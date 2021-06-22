@@ -3,6 +3,7 @@
 Creates a complete VM inventory of a Nutanix environment.
 .DESCRIPTION
 Creates a complete inventory of a Nutanix Cluster configuration using PowerShell and exports output to a csv file.
+
 #>
 
 # Setting parameters for the connection
